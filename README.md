@@ -24,9 +24,9 @@ Dashboard Creation: Streamlit and Plotly will be utilized to create an interacti
 Data Retrieval: The data from the MySQL database will be fetched into a Pandas dataframe and used to update the dashboard dynamically.
 Deployment: The solution will be thoroughly tested and deployed publicly to ensure secure, efficient, and user-friendly access.
 ## Dataset
-Dataset Link: Data Link
+Dataset Link: [Data Link](https://github.com/PhonePe/pulse#readme)
 
-Inspired From: PhonePe Pulse
+Inspired From: [PhonePe Pulse](https://github.com/PhonePe/pulse#readme)
 
 ## Learning Outcomes
 Data extraction and processing using Python and Pandas.
